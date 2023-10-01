@@ -1,5 +1,5 @@
 ### Hello there 👋
-🏫 Bachelor's student in CS at TU Dresden<br>💼 Internship at Telekom MMS<br>🔍 Interested in Machine Learning
+🏫 Master's student in CS at TU Dresden<br>💼 Internship at Telekom MMS<br>🔍 Interested in Machine Learning
 
 
 ## 🌐 Socials:
