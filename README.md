@@ -1,5 +1,5 @@
 ### Hello there 👋
-🏫 Master's student in CS at TU Dresden<br>💼 Working student in the SAP Cloud Infrastructure Team<br>
+🏫 Master's student in CS at TU Dresden<br>💼 Developer Associate at SAP Cloud Infrastructure<br>
 
 
 ## 🌐 Socials:
