@@ -1,5 +1,6 @@
 ### Hello there 👋
 💼 Developer Associate at SAP Cloud Infrastructure<br>
+🎓 PhD Candidate at TUD Dresden University of Technology
 
 
 ## 🌐 Socials:
